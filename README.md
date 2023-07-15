@@ -3,6 +3,7 @@ JSP Servlet Ecommerce Web
 This is a sample ecommerce web application built using JSP (JavaServer Pages) and Servlets. It demonstrates the basic functionalities of an ecommerce website, such as user registration, product listing, cart management, and order processing. It can serve as a starting point or reference for building your own ecommerce web application using JSP and Servlets.
 
 FEATURE
+
 User registration and authentication
 Product listing and search
 Cart management (add, remove, update quantities)
@@ -11,6 +12,7 @@ Admin panel for managing products and orders
 Responsive and user-friendly interface
 
 TECHNOLOGIES USED
+
 Java
 JSP (JavaServer Pages)
 Servlets
@@ -21,6 +23,7 @@ Bootstrap (optional, for styling)
 MySQL (or any other relational database)
 
 SETUP INSTRUCTION
+
 Clone the repository: git clone https://github.com/rahulmishra179/jsp-servlet-ecommerce-web.git
 Import the project into your preferred Java IDE.
 Set up a MySQL (or any other relational database) server and create a new database.
@@ -30,6 +33,7 @@ Build and run the application using your IDE or command-line tools.
 
 
 USAGE
+
 Register a new user account or log in with an existing account.
 Browse the product catalog and search for specific products.
 Add products to your cart and manage the cart items (update quantities or remove items).
